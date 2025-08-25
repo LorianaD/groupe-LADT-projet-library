@@ -7,10 +7,10 @@
     <link rel="stylesheet" href="asset/style/style.css">
 </head>
 <body>
-   <?php include "includes/header.php" ?>
+   <?php include "../includes/header.php" ?>
    <main>
 
    </main>
-   <?php include "includes/footer.php" ?>
+   <?php include "../includes/footer.php" ?>
 </body>
 </html>
